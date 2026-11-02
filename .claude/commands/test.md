@@ -1,4 +1,5 @@
 ---
+description: Write unit tests for a given file
 argument-hint: <file path>
 ---
 
